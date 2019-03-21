@@ -1,0 +1,59 @@
+
+.body
+{
+	background-color: silver;
+}
+
+.colm1
+{
+	background-color: ;
+}
+
+.colm1 h2
+{
+	font-weight: bold;
+	margin-top:120px;
+}
+
+.colm1 p
+{
+	font-size:16px;
+	font-weight: bold;
+}
+
+
+.colm2
+{
+	background-color: ;
+}
+
+
+.colm2 img
+{
+	margin-top: 20px;
+	height:280px;
+	width:230px;
+}
+
+.body-part h2
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.body-part p
+{
+	font-size:16px;
+	font-weight: bold;
+}
+
+.table thead
+{
+	font-size:17px;
+	font-weight: bold;
+}
+
+.table tbody
+{
+	font-size:16px;
+}
